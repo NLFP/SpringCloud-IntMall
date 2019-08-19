@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/eureka-client-ssomanager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intmall-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intmall-deployment" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intmall-ribbo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intmall-sleuth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/intmall-zuul" charset="UTF-8" />
+  </component>
+</project>

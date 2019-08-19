@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client-ssomanager" />
+        <module name="eureka-server" />
+        <module name="IntMall" />
+        <module name="intmall-config" />
+        <module name="intmall-ribbo" />
+        <module name="intmall-sleuth" />
+        <module name="intmall-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="intmall-as" target="1.8" />
+      <module name="intmall-deployment" target="1.8" />
+      <module name="intmall-order" target="1.8" />
+      <module name="intmall-ordercenter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka-client-ssomanager" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
+      <module name="intmall-as" options="-parameters" />
+      <module name="intmall-config" options="-parameters" />
+      <module name="intmall-deployment" options="-parameters" />
+      <module name="intmall-order" options="-parameters" />
+      <module name="intmall-ordercenter" options="-parameters" />
+      <module name="intmall-ribbo" options="-parameters" />
+      <module name="intmall-sleuth" options="-parameters" />
+      <module name="intmall-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>
